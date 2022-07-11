@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "637988451437",
+    "project_id": "triphandler-ed73b",
+    "storage_bucket": "triphandler-ed73b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637988451437:android:0a70ac7ccd82abdf08fb64",
+        "android_client_info": {
+          "package_name": "com.example.trip_handler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637988451437-r3sn42nbt6785mspje5tdkke4bkdtto1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trip_handler",
+            "certificate_hash": "0dcd19fc474f3d03dc69c915b45edaf7c878ba0b"
+          }
+        },
+        {
+          "client_id": "637988451437-619pq6mp5brldd505bo5ut7a51eevjkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf4h1_FOmzbZlBpZFi93aSGaAnEEyhuac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637988451437-619pq6mp5brldd505bo5ut7a51eevjkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
